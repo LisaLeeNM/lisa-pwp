@@ -12,9 +12,9 @@
 		<h3>Featured Content</h3>
 
 			<h4>Welcome</h4>
-			<p>This section will have a brief introduction with my name and role as a Fullstack Developer. This will be overlaid a soft gray background.</p>
+			<p>This section will have my name handwritten or stylized with my role as a Fullstack Developer at the top and text/links in orange on the bottom for 'about', 'portfolio', and 'contact'. This will be overlaid over a soft gray background with a logo or imagery.</p>
 
-			<h4>About Me</h4>
+			<h4>About</h4>
 			<p>This section will detail my professional history, core skill set, and professional highlights. This section will showcase my strengths and personality. I will feature a contrasting sidebar that lists my core skills and programming languages which will be easily readable at a glance. The tone of voice will be personable and casual, as I am only interested in opportunities with individuals and organizations that I am a good personality fit for.</p>
 
 			<h4>Portfolio</h4>
@@ -23,5 +23,13 @@
 			<h4>Contact</h4>
 			<p>This section will contain a simple contact form, my professional email address, and additional links to my professional social media profiles: LinkedIn, Twitter, GitHub, Dribbble. (These will also be linked to in the footer site wide via icons.)</p>
 
+			<h4>Contact</h4>
+			<p>This section will contain a simple contact form, my professional email address, and additional links to my professional social media profiles: LinkedIn, Twitter, GitHub, Dribbble. (These will also be linked to in the footer site wide via icons.)</p>
+
+	<h2>Wireframes</h2>
+	<ul></ul>
+	<li>Mobile Layout: xxx</li>
+	<li>Web Layout: xxx</li>
+	<ul></ul>
 </body>
 </html>
