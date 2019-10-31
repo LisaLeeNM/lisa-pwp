@@ -16,7 +16,7 @@
 	<p>My personal site will be one page where one can scroll down to the different sections; it will consist of the following:</p>
 
 			<h4>Welcome</h4>
-			<p>This will have my name handwritten or stylized with my role as a Fullstack Developer over a large background image. At the top, will be my tagline and the hamburger dropdown that brings viewer down to the 'about', 'portfolio', and 'contact'. Social media icons shown at the bottom.</p>
+			<p>This will have my name handwritten or stylized with my role as a Fullstack Developer over a large background image that I will create or find free stock image. At the top, will be my tagline and the hamburger dropdown that brings viewer down to the 'about', 'portfolio', and 'contact'. Social media icons shown at the bottom.</p>
 
 			<h4>About</h4>
 			<p>This will give viewers a brief overview about me (giving them a sense of my personality), and include my skill set and professional highlights. The tone will be personable and casual, as I am interested in opportunities with individuals and organizations that I am a good personality fit for. This will be blocked with a pop of color with the tagline and hamburger icon at the top and the social media icons at the bottom; these will appear throughout.</p>
