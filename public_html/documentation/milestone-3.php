@@ -46,7 +46,7 @@
 			</div>
 		</header>
 
-	<!-- HEADLINE -->
+	<!-- WELCOME -->
 		<section>
 			<div class="container">
 				<div class="row">
@@ -57,7 +57,7 @@
 			</div>
 		</section>
 
-	<!-- HEADLINE -->
+	<!-- ABOUT -->
 	<section>
 		<div class="container">
 			<div class="row">
@@ -68,7 +68,18 @@
 		</div>
 	</section>
 
-	<!-- HEADLINE -->
+	<!-- PORTFOLIO -->
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- CONTACT -->
 	<section>
 		<div class="container">
 			<div class="row">
