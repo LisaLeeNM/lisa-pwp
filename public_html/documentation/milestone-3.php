@@ -51,10 +51,11 @@
 		<div class="container-fluid bg-secondary py-5">
 			<div class="row">
 				<div class="col-md-3">
-					<img src "lisa_image.jpg" class="img-fluid mx-auto d-block" alt="lisa lee">
+					<img src="lisa_image.jpg" class="img-fluid mx-auto d-block" alt="lisa lee drawn image" width="1089"
+						  height="870">
 				</div>
 			<div class="col-md-9">
-					<p>Consectetur adipiscing elit ut aliquam purus sit amet luctus. Id ornare arcu odio ut sem nulla pharetra. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit.</p>
+					<p>Consectetur adipiscing elit ut aliquam purus sit amet luctus. Id ornare arcu odio ut sem nulla pharetra. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Posuere morbi leo urna molestie at elementum eu. Amet massa vitae tortor condimentum lacinia quis vel. Tellus id interdum velit laoreet id donec ultrices tincidunt. Vel fringilla est ullamcorper eget nulla facilisi. Ut aliquam purus sit amet. Sagittis id consectetur purus ut faucibus pulvinar elementum integer enim. Cras fermentum odio eu feugiat pretium nibh ipsum.</p>
 			</div>
 		</div>
 	</section>
@@ -112,8 +113,12 @@
 
 
 	<!-- FOOTER -->
-		<footer>
-			<p>2019 Lisa Lee</p>
-		</footer>
+
+	<!-- FOOTER -->
+	<footer>
+		<div class="container-fluid bg-dark text-light text-center py-5">
+			<h6>Lisa Lee Pax | Web Designs</h6>
+		</div>
+	</footer>
 	</body>
 </html>
