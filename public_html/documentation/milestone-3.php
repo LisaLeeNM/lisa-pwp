@@ -38,7 +38,7 @@
 								<a class="nav-link" href="#">Portfolio</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+								<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -48,9 +48,9 @@
 
 	<!-- WELCOME -->
 		<section>
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
-					<div class="col">
+					<div class="col-12">
 
 					</div>
 				</div>
