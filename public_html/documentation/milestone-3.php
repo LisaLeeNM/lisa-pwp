@@ -51,7 +51,7 @@
 		<div class="container-fluid bg-secondary py-5">
 			<div class="row">
 				<div class="col-md-3">
-					<img src="lisa_image2.jpg" class="img-fluid mx-auto d-block" alt="lisa lee drawn image" width="1089"
+					<img src="lisa_image3.jpg" class="img-fluid mx-auto d-block" alt="lisa lee drawn image" width="1089"
 						  height="870">
 				</div>
 			<div class="col-md-9">
@@ -81,7 +81,6 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-
 				</div>
 			</div>
 		</div>
@@ -141,22 +140,30 @@
 	</section>
 
 	<!-- CONTACT FORM -->
-	<form>
-		<div class="form-group">
-			<label for="exampleInputEmail1">Email address</label>
-			<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-			<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+	<section class="py-5">
+		<div class="container bg-secondary py-5">
+			<div class="row">
+				<div class="col-md-3">
+				<form>
+					<div class="form-group">
+						<label for="exampleInputName">Full Name</label>
+						<input type="name" class="form-control" id="exampleInputName" aria-describedby="nameHelp" placeholder="Enter full name">
+					</div>
+					<div class="form-group">
+						<label for="exampleInputEmail1">Email</label>
+						<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+					</div>
+
+					<div class="form-group">
+						<label for="exampleFormControlTextarea1">Message</label>
+						<textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+					</div>
+					<button type="submit" class="btn btn-primary">Submit</button>
+				</form>
+				</div>
+			</div>
 		</div>
-		<div class="form-group">
-			<label for="exampleInputPassword1">Password</label>
-			<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-		</div>
-		<div class="form-group form-check">
-			<input type="checkbox" class="form-check-input" id="exampleCheck1">
-			<label class="form-check-label" for="exampleCheck1">Check me out</label>
-		</div>
-		<button type="submit" class="btn btn-primary">Submit</button>
-	</form>
+	</section>
 
 	<!-- FOOTER -->
 	<footer>
