@@ -51,7 +51,7 @@
 		<div class="container-fluid bg-secondary py-5">
 			<div class="row">
 				<div class="col-md-3">
-					<img src="lisa_image.jpg" class="img-fluid mx-auto d-block" alt="lisa lee drawn image" width="1089"
+					<img src="lisa_image2.jpg" class="img-fluid mx-auto d-block" alt="lisa lee drawn image" width="1089"
 						  height="870">
 				</div>
 			<div class="col-md-9">
@@ -112,7 +112,7 @@
 	<section>
 		<div class="container py-5">
 			<div class="row">
-				<div class="col-lg-3 col-sm-6">
+				<div class="col-lg-4 col-sm-12">
 					<img src="tree roots.jpg" class="img-fluid rounded-circle mb-4" alt="photo of tree roots from sandia foothills hike">
 					<div class="card mb-4">
 						<div class="card-body">
@@ -120,16 +120,16 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-sm-6">
-					<img src="Groundhogs-Day.jpeg" class="img-fluid rounded-circle mb-4" alt="bill murray in groundhogs day">
+				<div class="col-lg-4 col-sm-12">
+					<img src="watercolor balls.jpg" class="img-fluid rounded-circle mb-4" alt="grayscale watercolor of spheres">
 					<div class="card mb-4">
 						<div class="card-body">
 							<p class="card-text">Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet tellus cras adipiscing enim eu turpis egestas. Eu mi bibendum neque egestas congue quisque egestas diam. Ac turpis egestas integer eget. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Morbi tristique senectus et netus et malesuada fames ac turpis. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Fringilla ut morbi tincidunt augue. Quis vel eros donec ac odio tempor orci.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-sm-6">
-					<img src="Grand-Budapest.jpeg" class="img-fluid rounded-circle mb-4" alt="bill murray in grand budapest hotel">
+				<div class="col-lg-4 col-sm-12">
+					<img src="slot canyon.jpg" class="img-fluid rounded-circle mb-4" alt="slot canyons">
 					<div class="card mb-4">
 						<div class="card-body">
 							<p class="card-text">Enim nulla aliquet porttitor lacus luctus. Ac turpis egestas integer eget aliquet. Bibendum at varius vel pharetra. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Tortor pretium viverra suspendisse potenti nullam ac. Quam vulputate dignissim suspendisse in est ante in. In massa tempor nec feugiat nisl pretium. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Pretium lectus quam id leo in. Aliquet eget sit amet tellus cras adipiscing enim eu turpis.</p>
@@ -140,6 +140,23 @@
 		</div>
 	</section>
 
+	<!-- CONTACT FORM -->
+	<form>
+		<div class="form-group">
+			<label for="exampleInputEmail1">Email address</label>
+			<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+			<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+		</div>
+		<div class="form-group">
+			<label for="exampleInputPassword1">Password</label>
+			<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+		</div>
+		<div class="form-group form-check">
+			<input type="checkbox" class="form-check-input" id="exampleCheck1">
+			<label class="form-check-label" for="exampleCheck1">Check me out</label>
+		</div>
+		<button type="submit" class="btn btn-primary">Submit</button>
+	</form>
 
 	<!-- FOOTER -->
 	<footer>
