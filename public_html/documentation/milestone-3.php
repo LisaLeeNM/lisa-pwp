@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-		<title>Lisa Lee</title>
+		<title>Lisa Lee Pax Web Design</title>
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous" />
@@ -113,7 +113,7 @@
 		<div class="container py-5">
 			<div class="row">
 				<div class="col-lg-3 col-sm-6">
-					<img src="Ghostbusters.jpg" class="img-fluid rounded-circle mb-4" alt="bill murray in ghostbusters">
+					<img src="tree roots.jpg" class="img-fluid rounded-circle mb-4" alt="photo of tree roots from sandia foothills hike">
 					<div class="card mb-4">
 						<div class="card-body">
 							<p class="card-text">Dui faucibus in ornare quam. Sem et tortor consequat id porta nibh venenatis cras. Venenatis a condimentum vitae sapien pellentesque. Scelerisque eu ultrices vitae auctor eu. Enim sit amet venenatis urna. Massa vitae tortor condimentum lacinia quis vel eros. Arcu non sodales neque sodales ut etiam sit amet. Suspendisse potenti nullam ac tortor vitae purus faucibus. Dolor sit amet consectetur adipiscing elit ut aliquam. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi.</p>
@@ -124,7 +124,7 @@
 					<img src="Groundhogs-Day.jpeg" class="img-fluid rounded-circle mb-4" alt="bill murray in groundhogs day">
 					<div class="card mb-4">
 						<div class="card-body">
-							<p class="card-text">Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet tellus cras adipiscing enim eu turpis egestas. Eu mi bibendum neque egestas congue quisque egestas diam. Ac turpis egestas integer eget. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Morbi tristique senectus et netus et malesuada fames ac turpis. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Fringilla ut morbi tincidunt augue. Quis vel eros donec ac odio tempor orci. Vel pharetra vel turpis nunc eget lorem. Tortor at risus viverra adipiscing. Laoreet suspendisse interdum consectetur libero id faucibus. Ut lectus arcu bibendum at varius vel pharetra vel. Non pulvinar neque laoreet suspendisse interdum consectetur. Non odio euismod lacinia at quis risus sed vulputate. Vestibulum morbi blandit cursus risus at ultrices mi tempus. Lectus sit amet est placerat in egestas. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor.</p>
+							<p class="card-text">Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet tellus cras adipiscing enim eu turpis egestas. Eu mi bibendum neque egestas congue quisque egestas diam. Ac turpis egestas integer eget. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Morbi tristique senectus et netus et malesuada fames ac turpis. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Fringilla ut morbi tincidunt augue. Quis vel eros donec ac odio tempor orci.</p>
 						</div>
 					</div>
 				</div>
@@ -132,7 +132,7 @@
 					<img src="Grand-Budapest.jpeg" class="img-fluid rounded-circle mb-4" alt="bill murray in grand budapest hotel">
 					<div class="card mb-4">
 						<div class="card-body">
-							<p class="card-text">Enim nulla aliquet porttitor lacus luctus. Ac turpis egestas integer eget aliquet. Bibendum at varius vel pharetra. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Tortor pretium viverra suspendisse potenti nullam ac. Quam vulputate dignissim suspendisse in est ante in. In massa tempor nec feugiat nisl pretium. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Pretium lectus quam id leo in. Aliquet eget sit amet tellus cras adipiscing enim eu turpis. Mauris vitae ultricies leo integer malesuada. Felis eget velit aliquet sagittis id consectetur. Cursus metus aliquam eleifend mi in nulla. Id aliquet risus feugiat in ante metus dictum at. Egestas tellus rutrum tellus pellentesque eu. Ac turpis egestas integer eget aliquet nibh. Auctor elit sed vulputate mi sit amet mauris commodo quis. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Justo eget magna fermentum iaculis.</p>
+							<p class="card-text">Enim nulla aliquet porttitor lacus luctus. Ac turpis egestas integer eget aliquet. Bibendum at varius vel pharetra. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Tortor pretium viverra suspendisse potenti nullam ac. Quam vulputate dignissim suspendisse in est ante in. In massa tempor nec feugiat nisl pretium. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Pretium lectus quam id leo in. Aliquet eget sit amet tellus cras adipiscing enim eu turpis.</p>
 						</div>
 					</div>
 				</div>
