@@ -22,7 +22,7 @@
 		<header>
 			<div class="container pt-3">
 				<nav class="navbar navbar-expand-lg navbar-light bg-light">
-					<a class="navbar-brand" href="#">lisa lee | web design</a>
+					<a class="navbar-brand" href="#">Lisa Lee Pax | web design</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
 					</button>
@@ -47,15 +47,27 @@
 		</header>
 
 	<!-- WELCOME -->
+	<section class="py-5">
+		<div class="container-fluid bg-secondary py-5">
+			<div class="row">
+				<div class="col-md-3">
+					<img src "lisa_image.jpg" class="img-fluid mx-auto d-block" alt="lisa lee">
+				</div>
+			<div class="col-md-9">
+					<p>Consectetur adipiscing elit ut aliquam purus sit amet luctus. Id ornare arcu odio ut sem nulla pharetra. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit.</p>
+			</div>
+		</div>
+	</section>
+
+	<!-- WELCOME -->
 		<section>
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col">
 						<div class="jumbotron">
-							<h1 class="display-4">lisa lee...web design</h1>
-							<p class="lead">welcome!</p>
+							<h1 class="display-4">Lisa Lee Pax  |  Web Design</h1>
 							<hr class="my-4">
-							<p>I'm Lisa, a web developer/designer, who is curious about uncovering the story behind you and your business.</p>
+							<p>Hello. I'm Lisa, a web developer/designer, who is curious about uncovering the story behind you and your business. Congue quisque egestas diam in arcu. Leo a diam sollicitudin tempor. Aenean et tortor at risus viverra adipiscing at in. Quis blandit turpis cursus in hac habitasse platea dictumst. Sit amet tellus cras adipiscing enim. Sagittis vitae et leo duis ut diam quam nulla porttitor. Lacinia at quis risus sed vulputate odio ut enim. Pharetra massa massa ultricies mi quis. Ut morbi tincidunt augue interdum velit euismod. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien.</p>
 							<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 						</div>
 					</div>
