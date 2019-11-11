@@ -205,6 +205,9 @@
 		</div>
 	</section>
 
+	<!-- CUSTOM CONTACT FORM -->
+
+
 	<!-- FOOTER -->
 	<footer>
 		<div class="container-fluid bg-dark text-light text-center py-5">
