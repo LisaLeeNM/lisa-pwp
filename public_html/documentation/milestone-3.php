@@ -22,7 +22,7 @@
 		<header>
 			<div class="container pt-3">
 				<nav class="navbar navbar-expand-lg navbar-light bg-light">
-					<a class="navbar-brand" href="#">Lisa Lee Pax | web design</a>
+					<a class="navbar-brand" href="#">Lisa Lee Pax | Web Design</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
 					</button>
@@ -55,7 +55,7 @@
 						  height="870">
 				</div>
 			<div class="col-md-9">
-					<p>Consectetur adipiscing elit ut aliquam purus sit amet luctus. Id ornare arcu odio ut sem nulla pharetra. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Posuere morbi leo urna molestie at elementum eu. Amet massa vitae tortor condimentum lacinia quis vel. Tellus id interdum velit laoreet id donec ultrices tincidunt. Vel fringilla est ullamcorper eget nulla facilisi. Ut aliquam purus sit amet. Sagittis id consectetur purus ut faucibus pulvinar elementum integer enim. Cras fermentum odio eu feugiat pretium nibh ipsum.</p>
+					<p>Consectetur adipiscing elit ut aliquam purus sit amet luctus. Id ornare arcu odio ut sem nulla pharetra. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Posuere morbi leo urna molestie at elementum eu. Amet massa vitae tortor condimentum lacinia quis vel. </p>
 			</div>
 		</div>
 	</section>
@@ -66,7 +66,7 @@
 				<div class="row">
 					<div class="col">
 						<div class="jumbotron">
-							<h1 class="display-4">Lisa Lee Pax  |  Web Design</h1>
+							<h1 class="display-4">Lisa Lee Pax  |  Web Designs</h1>
 							<hr class="my-4">
 							<p>Hello. I'm Lisa, a web developer/designer, who is curious about uncovering the story behind you and your business. Congue quisque egestas diam in arcu. Leo a diam sollicitudin tempor. Aenean et tortor at risus viverra adipiscing at in. Quis blandit turpis cursus in hac habitasse platea dictumst. Sit amet tellus cras adipiscing enim. Sagittis vitae et leo duis ut diam quam nulla porttitor. Lacinia at quis risus sed vulputate odio ut enim. Pharetra massa massa ultricies mi quis. Ut morbi tincidunt augue interdum velit euismod. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien.</p>
 							<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -86,16 +86,56 @@
 		</div>
 	</section>
 
-	<!-- PORTFOLIO -->
-	<section>
-		<div class="container">
-			<div class="row">
-				<div class="col">
 
+
+	<!-- PORTFOLIO 1 -->
+	<div class="accordion" id="accordionExample">
+		<div class="card">
+			<div class="card-header" id="headingOne">
+				<h2 class="mb-0">
+					<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+						Crime-Property Value Capstone Project
+					</button>
+				</h2>
+			</div>
+
+			<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+				<div class="card-body">
+					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
 				</div>
 			</div>
 		</div>
-	</section>
+		<div class="card">
+			<div class="card-header" id="headingTwo">
+				<h2 class="mb-0">
+					<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						Personal Project #1
+					</button>
+				</h2>
+			</div>
+			<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+				<div class="card-body">
+					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				</div>
+			</div>
+		</div>
+		<div class="card">
+			<div class="card-header" id="headingThree">
+				<h2 class="mb-0">
+					<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						Personal Project #2
+					</button>
+				</h2>
+			</div>
+			<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+				<div class="card-body">
+					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				</div>
+			</div>
+		</div>
+	</div>
+
+
 
 	<!-- CONTACT -->
 	<section>
@@ -143,7 +183,7 @@
 	<section class="py-5">
 		<div class="container bg-secondary py-5">
 			<div class="row">
-				<div class="col-md-3">
+				<div class="col-md-12">
 				<form>
 					<div class="form-group">
 						<label for="exampleInputName">Full Name</label>
@@ -168,7 +208,7 @@
 	<!-- FOOTER -->
 	<footer>
 		<div class="container-fluid bg-dark text-light text-center py-5">
-			<h6>Lisa Lee Pax | Web Designs</h6>
+			<h6>Lisa Lee Pax | Web Design</h6>
 		</div>
 	</footer>
 	</body>
