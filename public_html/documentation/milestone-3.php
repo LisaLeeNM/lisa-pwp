@@ -180,7 +180,7 @@
 	</section>
 
 	<!-- CONTACT FORM -->
-	<section class="py-5">
+	<!-- <section class="py-5">
 		<div class="container bg-secondary py-5">
 			<div class="row">
 				<div class="col-md-12">
@@ -203,10 +203,64 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
-	<!-- CUSTOM CONTACT FORM -->
+	<!-- CLASS EXAMPLE CONTACT FORM -->
+	<form id="rochelles-demo-form" action="../php/" method="post">
+		<div class="form-group">
+			<label for="contactDemoName">Name <span class="text-danger">*</span></label>
+			<div class="input-group">
+				<div class="input-group-prepend">
+					<span class="input-group-text"></span>
+					<i class="fa fa-user" aria-hidden="true"></i>
+				</div>
+				<input type="text" class="form-control" id="contactDemoName" name="contactDemoName" placeholder="Name">
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="contactDemoEmail">Email <span class="text-danger">*</span></label>
+			<div class="input-group">
+				<div class="input-group-prepend">
+					<span class="input-group-text"></span>
+					<i class="fa fa-envelope" aria-hidden="true"></i>
+				</div>
+				<input type="email" class="form-control" id="contactDemoEmail" name="contactDemoEmail" placeholder="Email">
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="contactDemoSubject">Subject</label>
+			<div class="input-group">
+				<div class="input-group-prepend">
+					<span class="input-group-text"></span>
+					<i class="fa fa-pencil" aria-hidden="true"></i>
+				</div>
+				<input type="text" class="form-control" id="contactDemoSubject" name="contactDemoSubject" placeholder="Subject">
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="contactDemoMessage">Message <span class="text-danger">*</span></label>
+			<div class="input-group">
+				<div class="input-group-prepend">
+					<span class="input-group-text"></span>
+					<i class="fa fa-comment" aria-hidden="true"></i>
+				</div>
+				<textarea class="form-control" rows="5" id="contactDemoMessage" name="contactDemoMessage" placeholder="I <3 CopyPasta :D~ (2000 characters max)"></textarea>
+			</div>
+		</div>
 
+		<!-- reCAPTCHA -->
+		<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+
+		<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+		<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+	</form>
+
+	<!--empty area for form error/success output-->
+	<div class="row">
+		<div class="col-xs-12">
+			<div id="output-area"></div>
+		</div>
+	</div>
 
 	<!-- FOOTER -->
 	<footer>
