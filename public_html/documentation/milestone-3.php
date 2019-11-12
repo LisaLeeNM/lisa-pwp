@@ -20,6 +20,22 @@
 
 
 
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+				  integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh"
+				  crossorigin="anonymous"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 
 
@@ -259,7 +275,7 @@
 		</div>
 
 		<!-- reCAPTCHA -->
-		<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+		<div class="g-recaptcha" data-sitekey="6LeqKsIUAAAAAP6W9KsjaVjC_C3ib7n_spo4JYsb"></div>
 
 		<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 		<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
