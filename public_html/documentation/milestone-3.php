@@ -255,7 +255,7 @@
 		<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 	</form>
 
-	<!--empty area for form error/success output-->
+	<!--NEED THIS AT END OF FORM: empty area for form error/success output-->
 	<div class="row">
 		<div class="col-xs-12">
 			<div id="output-area"></div>
