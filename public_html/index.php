@@ -33,8 +33,12 @@
 	<!-- Your JavaScript Form Validator -- Google reCAPTCHA -->
 	<script src='https://www.google.com/recaptcha/api.js'></script>
 
-	<!-- Font Awesome Icons -->
-	<script src="https://kit.fontawesome.com/08baf7ecb9.js" crossorigin="anonymous"></script>
+	<!-- Font Awesome -->
+	<script src="https://kit.fontawesome.com/aab9846fb7.js" crossorigin="anonymous"></script>
+
+	<!-- Icons -->
+	<i class="fab fa-github"></i>
+	<i class="fab fa-linkedin"></i>
 
 	<!-- Title -->
 	<title>Lisa Lee Web Design</title>
@@ -79,7 +83,10 @@
 			</div>
 		</div>
 		<div class="col-md-9">
-			<p>Consectetur adipiscing elit ut aliquam purus sit amet luctus. Id ornare arcu odio ut sem nulla pharetra. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Posuere morbi leo urna molestie at elementum eu. Amet massa vitae tortor condimentum lacinia quis vel. </p>
+			<h1>hello!</h1>
+			<p>I'm Lisa, owner and developer of a boutique web development shop. I enjoy collaborating with clients to tell the story of their passion that is their business.
+
+				Hello. I'm Lisa, a web developer/designer, who is curious about uncovering the story behind you and your business.</p>
 		</div>
 	</div>
 </section>
