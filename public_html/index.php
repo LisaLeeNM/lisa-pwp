@@ -36,10 +36,6 @@
 	<!-- Font Awesome -->
 	<script src="https://kit.fontawesome.com/aab9846fb7.js" crossorigin="anonymous"></script>
 
-	<!-- Icons -->
-	<i class="fab fa-github"></i>
-	<i class="fab fa-linkedin"></i>
-
 	<!-- Title -->
 	<title>Lisa Lee Web Design</title>
 </head>
@@ -160,75 +156,50 @@
 
 
 
-<!-- PORTFOLIO 2 -->
-<section>
-	<div class="container">
-		<div class="row">
-			<div class="col">
+<!--<!-- PORTFOLIO 2 -->-->
+<!--<section>-->
+<!--	<div class="container">-->
+<!--		<div class="row">-->
+<!--			<div class="col">-->
+<!---->
+<!--			</div>-->
+<!--		</div>-->
+<!--	</div>-->
+<!--</section>-->
+<!---->
+<!--<section>-->
+<!--	<div class="container py-5">-->
+<!--		<div class="row">-->
+<!--			<div class="col-lg-4 col-sm-12">-->
+<!--				<img src="documentation/tree roots.jpg" class="img-fluid rounded-circle mb-4" alt="photo of tree roots from sandia foothills hike">-->
+<!--				<div class="card mb-4">-->
+<!--					<div class="card-body">-->
+<!--						<p class="card-text">Dui faucibus in ornare quam. Sem et tortor consequat id porta nibh venenatis cras. Venenatis a condimentum vitae sapien pellentesque. Scelerisque eu ultrices vitae auctor eu. Enim sit amet venenatis urna. Massa vitae tortor condimentum lacinia quis vel eros. Arcu non sodales neque sodales ut etiam sit amet. Suspendisse potenti nullam ac tortor vitae purus faucibus. Dolor sit amet consectetur adipiscing elit ut aliquam. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi.</p>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="col-lg-4 col-sm-12">-->
+<!--				<img src="documentation/watercolor balls.jpg" class="img-fluid rounded-circle mb-4" alt="grayscale watercolor of spheres">-->
+<!--				<div class="card mb-4">-->
+<!--					<div class="card-body">-->
+<!--						<p class="card-text">Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet tellus cras adipiscing enim eu turpis egestas. Eu mi bibendum neque egestas congue quisque egestas diam. Ac turpis egestas integer eget. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Morbi tristique senectus et netus et malesuada fames ac turpis. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Fringilla ut morbi tincidunt augue. Quis vel eros donec ac odio tempor orci.</p>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="col-lg-4 col-sm-12">-->
+<!--				<img src="documentation/slot canyon.jpg" class="img-fluid rounded-circle mb-4" alt="slot canyons">-->
+<!--				<div class="card mb-4">-->
+<!--					<div class="card-body">-->
+<!--						<p class="card-text">Enim nulla aliquet porttitor lacus luctus. Ac turpis egestas integer eget aliquet. Bibendum at varius vel pharetra. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Tortor pretium viverra suspendisse potenti nullam ac. Quam vulputate dignissim suspendisse in est ante in. In massa tempor nec feugiat nisl pretium. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Pretium lectus quam id leo in. Aliquet eget sit amet tellus cras adipiscing enim eu turpis.</p>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</div>-->
+<!--	</div>-->
+<!--</section>-->
 
-			</div>
-		</div>
-	</div>
-</section>
-
-<section>
-	<div class="container py-5">
-		<div class="row">
-			<div class="col-lg-4 col-sm-12">
-				<img src="documentation/tree roots.jpg" class="img-fluid rounded-circle mb-4" alt="photo of tree roots from sandia foothills hike">
-				<div class="card mb-4">
-					<div class="card-body">
-						<p class="card-text">Dui faucibus in ornare quam. Sem et tortor consequat id porta nibh venenatis cras. Venenatis a condimentum vitae sapien pellentesque. Scelerisque eu ultrices vitae auctor eu. Enim sit amet venenatis urna. Massa vitae tortor condimentum lacinia quis vel eros. Arcu non sodales neque sodales ut etiam sit amet. Suspendisse potenti nullam ac tortor vitae purus faucibus. Dolor sit amet consectetur adipiscing elit ut aliquam. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-12">
-				<img src="documentation/watercolor balls.jpg" class="img-fluid rounded-circle mb-4" alt="grayscale watercolor of spheres">
-				<div class="card mb-4">
-					<div class="card-body">
-						<p class="card-text">Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet tellus cras adipiscing enim eu turpis egestas. Eu mi bibendum neque egestas congue quisque egestas diam. Ac turpis egestas integer eget. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Morbi tristique senectus et netus et malesuada fames ac turpis. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Fringilla ut morbi tincidunt augue. Quis vel eros donec ac odio tempor orci.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-12">
-				<img src="documentation/slot canyon.jpg" class="img-fluid rounded-circle mb-4" alt="slot canyons">
-				<div class="card mb-4">
-					<div class="card-body">
-						<p class="card-text">Enim nulla aliquet porttitor lacus luctus. Ac turpis egestas integer eget aliquet. Bibendum at varius vel pharetra. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Tortor pretium viverra suspendisse potenti nullam ac. Quam vulputate dignissim suspendisse in est ante in. In massa tempor nec feugiat nisl pretium. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Pretium lectus quam id leo in. Aliquet eget sit amet tellus cras adipiscing enim eu turpis.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
 <!-- CONTACT FORM -->
-<!-- <section class="py-5">
-	<div class="container bg-secondary py-5">
-		<div class="row">
-			<div class="col-md-12">
-			<form>
-				<div class="form-group">
-					<label for="exampleInputName">Full Name</label>
-					<input type="name" class="form-control" id="exampleInputName" aria-describedby="nameHelp" placeholder="Enter full name">
-				</div>
-				<div class="form-group">
-					<label for="exampleInputEmail1">Email</label>
-					<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-				</div>
-
-				<div class="form-group">
-					<label for="exampleFormControlTextarea1">Message</label>
-					<textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
-				</div>
-				<button type="submit" class="btn btn-primary">Submit</button>
-			</form>
-			</div>
-		</div>
-	</div>
-</section> -->
-
-<!-- CLASS EXAMPLE CONTACT FORM -->
 <form id="lisa-lee-form" action="../php/" method="post">
 	<div class="form-group">
 		<label for="contactDemoName">Name <span class="text-danger">*</span></label>
@@ -289,6 +260,9 @@
 <footer>
 	<div class="container-fluid bg-dark text-light text-center py-5">
 		<h6>Lisa Lee | Web Design</h6>
+		<!-- Icons -->
+		<i class="fab fa-github"></i>
+		<i class="fab fa-linkedin"></i>
 	</div>
 </footer>
 </body>
