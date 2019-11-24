@@ -43,13 +43,13 @@
 	<!-- Title -->
 	<title>Lisa Lee Web Design</title>
 </head>
-<body>
+<body class="mb-0 pb-0">
 
 <!-- NAV BAR -->
 <header>
 	<div class="container pt-3">
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
-			<a class="navbar-brand" href="#">Lisa Lee Pax | Web Design</a>
+			<a class="navbar-brand" href="#">Lisa Lee | Web Design</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
@@ -73,9 +73,9 @@
 	</div>
 </header>
 
-<!-- WELCOME -->
+<!-- ABOUT -->
 <section class="py-5">
-	<div class="container-fluid bg-secondary py-5">
+	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-3">
 				<img src="documentation/lisa_image3.jpg" class="img-fluid mx-auto d-block" alt="lisa lee drawn image" width="1089"
@@ -84,22 +84,20 @@
 		</div>
 		<div class="col-md-9">
 			<h1>hello!</h1>
-			<p>I'm Lisa, owner and developer of a boutique web development shop. I enjoy collaborating with clients to tell the story of their passion that is their business.
-
-				Hello. I'm Lisa, a web developer/designer, who is curious about uncovering the story behind you and your business.</p>
+			<p>I'm Lisa, owner and developer of a boutique web development shop. I enjoy collaborating with clients to help uncover the story of their passion that is their business.</p>
 		</div>
 	</div>
 </section>
 
-<!-- WELCOME -->
+<!-- ABOUT -->
 <section>
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col">
 				<div class="jumbotron">
-					<h1 class="display-4">Lisa Lee Pax  |  Web Designs</h1>
+					<h1 class="display-4">About</h1>
 					<hr class="my-4">
-					<p>Hello. I'm Lisa, a web developer/designer, who is curious about uncovering the story behind you and your business. Congue quisque egestas diam in arcu. Leo a diam sollicitudin tempor. Aenean et tortor at risus viverra adipiscing at in. Quis blandit turpis cursus in hac habitasse platea dictumst. Sit amet tellus cras adipiscing enim. Sagittis vitae et leo duis ut diam quam nulla porttitor. Lacinia at quis risus sed vulputate odio ut enim. Pharetra massa massa ultricies mi quis. Ut morbi tincidunt augue interdum velit euismod. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien.</p>
+					<p>Congue quisque egestas diam in arcu. Leo a diam sollicitudin tempor. Aenean et tortor at risus viverra adipiscing at in. Quis blandit turpis cursus in hac habitasse platea dictumst. Sit amet tellus cras adipiscing enim. Sagittis vitae et leo duis ut diam quam nulla porttitor. Lacinia at quis risus sed vulputate odio ut enim. Pharetra massa massa ultricies mi quis. Ut morbi tincidunt augue interdum velit euismod. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien.</p>
 					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 				</div>
 			</div>
@@ -107,20 +105,9 @@
 	</div>
 </section>
 
-<!-- ABOUT -->
-<section>
-	<div class="container">
-		<div class="row">
-			<div class="col">
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
 <!-- PORTFOLIO 1 -->
 <div class="accordion" id="accordionExample">
+<h1>Portfolio</h1>
 	<div class="card">
 		<div class="card-header" id="headingOne">
 			<h2 class="mb-0">
@@ -140,13 +127,13 @@
 		<div class="card-header" id="headingTwo">
 			<h2 class="mb-0">
 				<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-					Personal Project #1
+					Drawing
 				</button>
 			</h2>
 		</div>
 		<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
 			<div class="card-body">
-				Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				With this portrait of an African woman, my intention was to portray her realistically and convey the life that she has lived - her past, present and future. "Hope", charcoal, 18" x 24".
 			</div>
 		</div>
 	</div>
@@ -154,13 +141,13 @@
 		<div class="card-header" id="headingThree">
 			<h2 class="mb-0">
 				<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-					Personal Project #2
+					Painting
 				</button>
 			</h2>
 		</div>
 		<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
 			<div class="card-body">
-				Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				This collage uses a mix of photo realism, pop art, and silhouette. It is my attempt to capture how some may be thinking and feeling about the current state of our country. "Chaos", acrylic on canvas, 14" x 18".
 			</div>
 		</div>
 	</div>
@@ -296,7 +283,7 @@
 <!-- FOOTER -->
 <footer>
 	<div class="container-fluid bg-dark text-light text-center py-5">
-		<h6>Lisa Lee Pax | Web Design</h6>
+		<h6>Lisa Lee | Web Design</h6>
 	</div>
 </footer>
 </body>
