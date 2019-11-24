@@ -1,56 +1,63 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	font-family: Calibri, Arial, Tahoma, serif;
-	background-image: url("jason-leung-wHddViTmSvA-unsplash.jpg");
+	font-family: 'Darker Grotesque', sans-serif;
+	/*background-color: #ff6135;*/
 	background-color: #ff6135;
-	background-color: #86eeaa;
-	background-image: im"jason-leung-corner";
+	background-image: url("https://github.com/LisaLeeNM/lisa-pwp/tree/master/public_html/documentation/jason-leung-corner.jpg");
+}
+
+.welcome-font {
+
+}
+
+.section-font {
+	font-family: 'Cambay', sans-serif;
 }
 
 
 
-#header {
-	width: 900px;
-	margin: 0px auto 0px auto;
-	border: 1px solid #000;
-	clear: both;
-}
+/*#header {*/
+/*	width: 900px;*/
+/*	margin: 0px auto 0px auto;*/
+/*	border: 1px solid #000;*/
+/*	clear: both;*/
+/*}*/
 
-#logo {
-	width: 400px;
-	float: left;
-	border: 1px solid #000;
-}
+/*#logo {*/
+/*	width: 400px;*/
+/*	float: left;*/
+/*	border: 1px solid #000;*/
+/*}*/
 
-#navbar {
-	width: 900px;
-	margin: 0px auto 0px auto;
-	border: 1px solid #000;
-	clear: both;
-}
+/*#navbar {*/
+/*	width: 900px;*/
+/*	margin: 0px auto 0px auto;*/
+/*	border: 1px solid #000;*/
+/*	clear: both;*/
+/*}*/
 
-#content {
-	width: 900 px;
-	margin: 0px auto 0px auto;
-	border: 1px solid #000;
-}
+/*#content {*/
+/*	width: 900 px;*/
+/*	margin: 0px auto 0px auto;*/
+/*	border: 1px solid #000;*/
+/*}*/
 
-#contentleft {
-	width: 550px;
-	float: left;
-	border: 1px solid #000;
-}
+/*#contentleft {*/
+/*	width: 550px;*/
+/*	float: left;*/
+/*	border: 1px solid #000;*/
+/*}*/
 
-#sidebar {
-	width: 300px;
-	float: right;
-	border: 1px solid #000;
-}
+/*#sidebar {*/
+/*	width: 300px;*/
+/*	float: right;*/
+/*	border: 1px solid #000;*/
+/*}*/
 
-#footer {
-	width: 900px
-	margin: 0px auto 0px auto;
-	border: 1px solid #000;
-	clear: both;
-}
+/*#footer {*/
+/*	width: 900px*/
+/*	margin: 0px auto 0px auto;*/
+/*	border: 1px solid #000;*/
+/*	clear: both;*/
+/*}*/
