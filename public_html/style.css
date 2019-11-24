@@ -2,6 +2,9 @@ body {
 	margin: 0px;
 	padding: 0px;
 	font-family: Calibri, Arial, Tahoma, serif;
+	background-image: url("jason-leung-wHddViTmSvA-unsplash.jpg");
+	background-color: #ff6135;
+	background-color: #86eeaa;
 }
 
 #header {
