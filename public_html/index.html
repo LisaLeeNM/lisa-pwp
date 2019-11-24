@@ -106,17 +106,16 @@
 
 
 <!-- HOMEPAGE -->
-<section class="py-5">
-	<div class="container-fluid">
-		<div id="homepage">
-		<div class="row">
-			<div class="col-md-3">
-				<img src="documentation/lisa_image3.jpg" class="img-fluid mx-auto d-block" alt="lisa lee drawn image" width="1089"
+<section id="homepage">
+	<div class="container">
+			<div class="row">
+<!--				<div class="col-md-3">-->
+				<img src="documentation/lisa_image3.jpg" class="my-image img-fluid" alt="lisa lee drawn image" width="1089"
 					  height="870">
 			</div>
 		</div>
 		</div>
-		<div class="col-md-9">
+<!--		<div class="col-md-9">-->
 			<h1 class="section-font text-center h1">Welcome to Lisa Lee Web Design...</h1>
 		</div>
 	</div>
@@ -203,8 +202,9 @@
 
 
 <!-- CONTACT FORM -->
+<section id="contact-form"></section>
 	<div class="container bg-light px-2 pt-4 pb-3 border border-dark rounded">
-		<form id="lisa-lee-form" action="../php/" method="post">
+		<form id="lisa-contact-form" action="../php/" method="post">
 			<div class="form-group">
 				<h1 class="section-font text-center h1">Contact</h1>
 <!--				<div class="text-center">-->
@@ -253,7 +253,7 @@
 
 				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-			</div>
+				</div>
 		</form>
 
 		<!--NEED THIS AT END OF FORM: empty area for form error/success output-->
@@ -262,7 +262,6 @@
 				<div id="output-area"></div>
 			</div>
 		</div>
-	</div>
 </section>
 
 <!-- FOOTER -->

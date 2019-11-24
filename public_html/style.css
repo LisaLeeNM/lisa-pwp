@@ -1,13 +1,19 @@
+/***
+GENERAL BODY STYLES
+ */
 body {
 	margin: 0px;
-	padding: 0px;
+	padding: 50px;
 	font-family: 'Darker Grotesque', sans-serif;
 	/*background-color: #ff6135;*/
 	background-color: #ff6135;
 	background-image: url("https://github.com/LisaLeeNM/lisa-pwp/tree/master/public_html/documentation/jason-leung-corner.jpg");
 }
 
-.welcome-font {
+/***
+WELCOME STYLES
+ */
+.section-homepage {
 
 }
 
@@ -15,6 +21,20 @@ body {
 	font-family: 'Cambay', sans-serif;
 }
 
+section {
+	padding: 2.75rem 0;
+}
+
+/***
+ABOUT ME STYLES
+ */
+
+.about-me img {
+	width: 300px;
+	float: left;
+	margin-left: 4rem;
+	margin-right: 4rem;
+}
 
 
 /*#header {*/
