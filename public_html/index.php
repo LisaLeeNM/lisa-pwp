@@ -119,7 +119,9 @@
 
 		<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
 			<div class="card-body">
-				Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				<img src="documentation/watercolor balls.jpg" class="img-fluid rounded-circle mb-4" alt="grayscale watercolor of spheres">
+
+				Web application created with Kyla Bendt and Lindsay Atencio that uses a map API to display property values and crime incident reports in the City of Albuquerque. The intention behind this project is to allow people to find affordable homes in areas with low crimes.
 			</div>
 		</div>
 	</div>
@@ -133,6 +135,8 @@
 		</div>
 		<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
 			<div class="card-body">
+				<img src="documentation/tree roots.jpg" class="img-fluid rounded-circle mb-4" alt="photo of tree roots from sandia foothills hike">
+
 				With this portrait of an African woman, my intention was to portray her realistically and convey the life that she has lived - her past, present and future. "Hope", charcoal, 18" x 24".
 			</div>
 		</div>
@@ -147,6 +151,7 @@
 		</div>
 		<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
 			<div class="card-body">
+				<img src="documentation/slot canyon.jpg" class="img-fluid rounded-circle mb-4" alt="slot canyons">
 				This collage uses a mix of photo realism, pop art, and silhouette. It is my attempt to capture how some may be thinking and feeling about the current state of our country. "Chaos", acrylic on canvas, 14" x 18".
 			</div>
 		</div>
