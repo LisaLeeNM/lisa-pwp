@@ -2,19 +2,39 @@
 GENERAL BODY STYLES
  */
 body {
-	margin: 0px;
+	margin: 50px;
 	padding: 50px;
 	font-family: 'Darker Grotesque', sans-serif;
 	/*background-color: #ff6135;*/
 	background-color: #ff6135;
-	background-image: url("https://github.com/LisaLeeNM/lisa-pwp/tree/master/public_html/documentation/jason-leung-corner.jpg");
+	background-color: rgba(197, 252, 255, 0.79);
+	background-image: url("https://unsplash.com/photos/-6zFVL4YuaM");
+	/*background-image: url("https://github.com/LisaLeeNM/lisa-pwp/tree/master/public_html/documentation/jason-leung-corner.jpg");*/
 }
+
+/*.orangegrad {*/
+/*	background: orange;*/
+/*	background: linear-gradient(top, #fb0, #f50);*/
+/*	background: -moz-linear-gradient(top, #fb0, #f50);*/
+/*	background: -webkit-linear-gradient(top, #fb0, #f50);*/
+/*	background: -o-linear-gradient(top, #fb0,#f50);*/
+/*	background: -ms-linear-gradient(top, #fb0, #f50);*/
+/*}*/
+
+/***
+NAVBAR STYLES
+ */
+/*.container-nav {*/
+/*	position: fixed;*/
+/*	top     : 0px;*/
+/*	left    : 0px;*/
+/*}*/
 
 /***
 WELCOME STYLES
  */
-.section-homepage {
-
+section {
+	margin: 10px;
 }
 
 .section-font {
@@ -25,6 +45,8 @@ section {
 	padding: 2.75rem 0;
 }
 
+
+
 /***
 ABOUT ME STYLES
  */
@@ -34,6 +56,12 @@ ABOUT ME STYLES
 	float: left;
 	margin-left: 4rem;
 	margin-right: 4rem;
+}
+
+.accordion {
+	margin-top: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 
