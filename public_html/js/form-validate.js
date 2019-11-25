@@ -14,7 +14,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#lisa-lee-form").validate({
+	$("#lisa-contact-form").validate({
 
 		// setup handling of form errors
 		debug: true,
