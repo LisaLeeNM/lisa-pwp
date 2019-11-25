@@ -54,6 +54,9 @@ HOMEPAGE STYLES
 /***
 ABOUT ME STYLES
  */
+#about-me {
+
+}
 
 #about-me img {
 	width: 300px;
@@ -61,6 +64,11 @@ ABOUT ME STYLES
 	margin-left: 4rem;
 	margin-right: 4rem;
 }
+
+/***
+PORTFOLIO STYLES
+ */
+
 
 .accordion {
 	margin-top: 50px;
