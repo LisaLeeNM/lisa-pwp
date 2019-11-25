@@ -93,13 +93,12 @@
 			<img src="documentation/lisa_image3.jpg" class="my-image img-fluid" alt="lisa lee drawn image" width="871"
 				  height="696">
 
-		</div>
-	</div>
+<!--		</div>-->
 	</div>
 	<!--		<div class="col-md-9">-->
 	<h1 class="section-font text-center h1">Welcome to</h1>
 	<h1 class="section-font text-center h1">Lisa Lee Web Design</h1>
-	</div>
+<!--	</div>-->
 	</div>
 </section>
 
@@ -198,60 +197,60 @@
 <!-- CONTACT FORM -->
 <section id="contact-form">
 	<div class="container bg-light px-2 pt-4 pb-3 border border-dark rounded">
-		<form id="lisa-contact-form" action="../php/" method="post">
+		<form id="lisa-contact-form" action="../php/index.php" method="post">
 			<div class="form-group">
 				<h1 class="section-font text-center h1">Contact</h1>
-				<label for="contactDemoName">Name <span class="text-danger">*</span></label>
+				<label for="name">Name <span class="text-danger">*</span></label>
 				<div class="input-group">
 <!--					<div class="input-group-prepend">-->
 <!--						<span class="input-group-text"></span>-->
 <!--						<i class="fa fa-user" aria-hidden="true"></i>-->
 <!--					</div>-->
-					<input type="text" class="form-control" id="contactDemoName" name="contactDemoName" placeholder="Name">
+					<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 				</div>
 			</div>
 			<div class="form-group">
-				<label for="contactDemoEmail">Email <span class="text-danger">*</span></label>
+				<label for="email">Email <span class="text-danger">*</span></label>
 				<div class="input-group">
 <!--					<div class="input-group-prepend">-->
 <!--						<span class="input-group-text"></span>-->
 <!--						<i class="fa fa-envelope" aria-hidden="true"></i>-->
 <!--					</div>-->
-					<input type="email" class="form-control" id="contactDemoEmail" name="contactDemoEmail"
+					<input type="email" class="form-control" id="email" name="email"
 							 placeholder="Email">
 				</div>
 			</div>
 			<div class="form-group">
-				<label for="contactDemoSubject">Subject</label>
+				<label for="subject">Subject</label>
 				<div class="input-group">
 <!--					<div class="input-group-prepend">-->
 <!--						<span class="input-group-text"></span>-->
 <!--						<i class="fa fa-pencil" aria-hidden="true"></i>-->
 <!--					</div>-->
-					<input type="text" class="form-control" id="contactDemoSubject" name="contactDemoSubject"
+					<input type="text" class="form-control" id="subject" name="subject"
 							 placeholder="Subject">
 				</div>
 			</div>
 			<div class="form-group">
-				<label for="contactDemoMessage">Message <span class="text-danger">*</span></label>
+				<label for="message">Message <span class="text-danger">*</span></label>
 				<div class="input-group">
 <!--					<div class="input-group-prepend">-->
 <!--						<span class="input-group-text"></span>-->
 <!--						<i class="fa fa-comment" aria-hidden="true"></i>-->
 <!--					</div>-->
-					<textarea class="form-control" rows="5" id="contactDemoMessage" name="contactDemoMessage"
+					<textarea class="form-control" rows="5" id="message" name="Message"
 								 placeholder="Tell me about your project (2000 characters max)"></textarea>
 				</div>
 			</div>
-
 			<!-- reCAPTCHA -->
 			<div class="g-recaptcha" data-sitekey="6LeqKsIUAAAAAP6W9KsjaVjC_C3ib7n_spo4JYsb"></div>
 
 			<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 			<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+			</div>
+		</form>
 	</div>
-	</form>
-</section>
+
 
 	<!--NEED THIS AT END OF FORM: empty area for form error/success output-->
 	<div class="row">
@@ -259,17 +258,20 @@
 			<div id="output-area"></div>
 		</div>
 	</div>
+</section>
 
 <!-- FOOTER -->
 <footer>
-	<a class="container-fluid bg-dark text-light text-center py-4">
+	<div class="container-fluid bg-dark text-light text-center py-4">
 		<h6>Lisa Lee Web Design</h6>
 		<!-- Icons -->
-		<a class="d-md-inline d-none fa-lg">
-			<a href="https://github.com/LisaLeeNM"</a>
-		<i class="fab fa-github"></i>
-		<a href="www.linkedin.com/in/lisa-lee-nm/"</a>
-	<i class="fab fa-linkedin"></i>
+		<div class="d-md-inline d-none fa-lg">
+			<a href="https://github.com/LisaLeeNM">
+		<i class="fab fa-github"></i></a>
+		<a href="www.linkedin.com/in/lisa-lee-nm/">
+	<i class="fab fa-linkedin"></i></a>
+		</div>
+	</div>
 </footer>
 </body>
 </html>
