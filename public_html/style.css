@@ -45,6 +45,10 @@ HOMEPAGE STYLES
 	margin-right: auto;
 }
 
+.welcome {
+	padding-top: 30px;
+}
+
 .section-font {
 	font-family: 'Cambay', sans-serif;
 }
