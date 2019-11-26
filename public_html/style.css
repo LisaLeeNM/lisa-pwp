@@ -58,10 +58,6 @@ HOMEPAGE STYLES
 /***
 ABOUT ME STYLES
  */
-#about-me {
-
-}
-
 #about-me img {
 	width: 300px;
 	float: left;
@@ -72,14 +68,29 @@ ABOUT ME STYLES
 /***
 PORTFOLIO STYLES
  */
-img[alt="acpimap"] {
+
+#collapseOne img {
 	display: block;
-	/*margin-left: 6rem;*/
-	/*margin-right: 3rem;*/
+	margin-right: auto;
+	margin-left: auto;
 }
 
-.accordion {
-	margin-top: 50px;
-	padding-top: 50px;
-	padding-bottom: 50px;
+#collapseTwo img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 30%
 }
+
+#collapseThree img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 45%
+}
+
+/*.accordion {*/
+/*	margin-top: 50px;*/
+/*	padding-top: 50px;*/
+/*	padding-bottom: 50px;*/
+/*}*/
